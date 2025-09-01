@@ -2,14 +2,10 @@
 layout: default
 avatar: /jekyll-linktree/assets/img/orangecat.jpeg
 
-github: 
- - lazypwny751
- - Aelita-Schaeffer
+youtube: 
+ - merastudytime417
 instagram: 
- - pinguftw
-discord:
- - name: lazypwny751
-   id: 612185954538487808
+ - merastudytime
 ---
 
-I'm an orange cat, pls follow my social media accounts 🐱.
+Study smart, stress free and super effective.
