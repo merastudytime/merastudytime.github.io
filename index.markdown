@@ -6,6 +6,8 @@ youtube:
  - merastudytime
 instagram: 
  - merastudytime
+tiktok:
+ - merastudytime
 ---
 
 Study smart, stress free and super effective.
