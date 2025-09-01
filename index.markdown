@@ -3,7 +3,7 @@ layout: default
 avatar: /jekyll-linktree/assets/img/orangecat.jpeg
 mahlas: MeraStudyTime
 youtube: 
- - UCmuMVmi9Mbyl_zSYermdy2w
+ - @merastudytime
 instagram: 
  - merastudytime
 ---
